@@ -1,4 +1,4 @@
-Clustering :
+#Clustering :
              It is an unsupervised learning technique.             
              Cluster is the collection of data objects which are similar to one another within the same group (class or category) 
              and are different from the objects in the other clusters.             
